@@ -1,0 +1,7 @@
+print("I/P Name.Age.Address")
+a=input()
+b=input()
+c=input()
+print("Name:",a)
+print("Age:",b)
+print("Address:",c)

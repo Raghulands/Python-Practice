@@ -1,0 +1,15 @@
+#List
+a=[1,2,3,4,5]
+a.pop(0)
+print(a)
+a.append(6)
+print(a)
+a.insert(0,1)
+a.append("List")
+print(a)
+b=[7,8,9,10]
+print(b)
+a.extend(b)
+print(a)
+a.append("Extend")
+print(a)

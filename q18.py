@@ -1,0 +1,9 @@
+#Dictonary
+data={"name":"ragu",
+      "age":"22",
+      "place":"chennai",
+      "friends":["suren","amal"]
+}
+print(data)
+print(data["name"])
+print(data["friends"])
